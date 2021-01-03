@@ -1,0 +1,73 @@
+cheats = 18
+
+cheat0_desc = "无限Hp全部"
+cheat0_code = "8003E6AA 0060"
+cheat0_enable = false
+
+cheat1_desc = " 无限马力  "
+cheat1_code = "800CC338 00C8"
+cheat1_enable = false
+
+cheat2_desc = " 状态良好"
+cheat2_code = "300CC33F 0004"
+cheat2_enable = false
+
+cheat3_desc = " 涡轮射击（.L2 + R1 + Square）"
+cheat3_code = "E00CBED8 0089+E10CBED9 0001+E10CBED9 0008+D00CC270 0501+800CC272 0102"
+cheat3_enable = false
+
+cheat4_desc = " 无限弹药"
+cheat4_code = "D006D974 FFFF+8006D974 0000+D006D994 FFFF+8006D994 0000"
+cheat4_enable = false
+
+cheat5_desc = " 一死"
+cheat5_code = "D0045720 0006+80045720 0001"
+cheat5_enable = false
+
+cheat6_desc = " 保存到任何地方（.L1 + Square）"
+cheat6_code = "E00CBED8 0084+800D13C0 1D00+E00CBED8 0084+800D13C2 8005"
+cheat6_enable = false
+
+cheat7_desc = " 有10个插槽"
+cheat7_code = "300D1906 000A"
+cheat7_enable = false
+
+cheat8_desc = " 全部文件"
+cheat8_code = "800D17D4 FFFF+800D17D6 FFFF"
+cheat8_enable = false
+
+cheat9_desc = " 所有地图"
+cheat9_code = "300D17CF 00FE+300D17D3 00FE"
+cheat9_enable = false
+
+cheat10_desc = " 总时间（获得S级）"
+cheat10_code = "800D15D0 0000+800D15D2 0000"
+cheat10_enable = false
+
+cheat11_desc = " 所有尾随图片"
+cheat11_code = "300D15E6 0008"
+cheat11_enable = false
+
+cheat12_desc = " Omake开始新游戏，一切皆有秘密"
+cheat12_code = "800D15DA FFE0"
+cheat12_enable = false
+
+cheat13_desc = " 熊熊大火"
+cheat13_code = "D003FC54 0003+8003FC54 0000"
+cheat13_enable = false
+
+cheat14_desc = " 豆腐皮代码"
+cheat14_code = "300D162E 000F"
+cheat14_enable = false
+
+cheat15_desc = " 雇佣兵模式\\获得奖励"
+cheat15_code = "800CBEFA FFFF"
+cheat15_enable = false
+
+cheat16_desc = " 佣兵模式\\奖励总额"
+cheat16_code = "800D1C94 967F+800D1C96 0098"
+cheat16_enable = false
+
+cheat17_desc = " 雇佣兵模式\\无限时间"
+cheat17_code = "800D1640 0078"
+cheat17_enable = false

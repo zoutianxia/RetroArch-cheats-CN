@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "完全恢复打开菜单时"
+cheat0_code = "D0044A02 0220+80045BD4 0001"
+cheat0_enable = false
+
+cheat1_desc = " 保存总是可能的  "
+cheat1_code = "301F6274 0001"
+cheat1_enable = false
+
+cheat2_desc = " DME当前"
+cheat2_code = "801DFF4C FFFF+801DFF4E 7FFF"
+cheat2_enable = false
+
+cheat3_desc = " LV 99"
+cheat3_code = "301DFE9C 0063"
+cheat3_enable = false
+
+cheat4_desc = " 材料化点MAX"
+cheat4_code = "801F5F80 C9FF+801F5F82 3B9A"
+cheat4_enable = false
+
+cheat5_desc = " Orb MAX的经验"
+cheat5_code = "801E5BF8 C9F6+801E5BFA 3B9A"
+cheat5_enable = false

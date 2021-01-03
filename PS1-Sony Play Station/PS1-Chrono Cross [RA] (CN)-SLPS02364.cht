@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Max星 "
+cheat0_code = "800789BC 0063+800789BE 0063"
+cheat0_enable = false
+
+cheat1_desc = " 主要字符代码\\无限和最大Hp "
+cheat1_code = "80075926 03E7+800759C8 03E7"
+cheat1_enable = false
+
+cheat2_desc = " 主要字符代码\\最大统计信息"
+cheat2_code = "50000302 0000+80075928 FFFF"
+cheat2_enable = false
+
+cheat3_desc = " Main字符代码\\已激活所有元素插槽"
+cheat3_code = "50003002 0000+30075951 0000"
+cheat3_enable = false
+
+cheat4_desc = " 主要字符代码\\无限金钱"
+cheat4_code = "800786F0 423F+800786F2 000F"
+cheat4_enable = false
+
+cheat5_desc = " 主要字符代码\\停止计时器"
+cheat5_code = "8007210C 1000"
+cheat5_enable = false
+
+cheat6_desc = "Main Character Codes \\ Save Anywhere（按Select和L1。按Select和L2）"
+cheat6_code = "D00E8510 0001+300E8510 0000"
+cheat6_enable = false
+
+cheat7_desc = " 保存到任何地方"
+cheat7_code = "800EBAE4 0001"
+cheat7_enable = false
+
+cheat8_desc = " 最高战斗力"
+cheat8_code = "D00BF4A0 0050+800BF4A4 0001"
+cheat8_enable = false
+
+cheat9_desc = " 致命一击/无伤害死亡打击按L2和无伤害按R2"
+cheat9_code = "D00855E0 0001+800D877A 0000+D00855E0 0002+800D877A 0040"
+cheat9_enable = false

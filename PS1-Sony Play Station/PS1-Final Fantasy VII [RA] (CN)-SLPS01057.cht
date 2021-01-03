@@ -1,0 +1,121 @@
+cheats = 30
+
+cheat0_desc = "无限金钱"
+cheat0_code = "8009C8B0 E0FF+8009C8B2 05F5"
+cheat0_enable = false
+
+cheat1_desc = " 无限Gp和Bp "
+cheat1_code = "8009CA22 2710+8009CA28 FDE8"
+cheat1_enable = false
+
+cheat2_desc = " 随时存档"
+cheat2_code = "8009C8F6 0000+80023AFA 3C04"
+cheat2_enable = false
+
+cheat3_desc = " 游戏时间最大"
+cheat3_code = "80011634 FFFF"
+cheat3_enable = false
+
+cheat4_desc = " 1次战斗后 Max Exp"
+cheat4_code = "8009CE2A 0FFF"
+cheat4_enable = false
+
+cheat5_desc = " 战斗后的Ap最大"
+cheat5_code = "8009CE2E 0FFF"
+cheat5_enable = false
+
+cheat6_desc = " 战后，Hp和Mp自动恢复"
+cheat6_code = "800201FC BDC0+80020220 BDC2"
+cheat6_enable = false
+
+cheat7_desc = " 在战斗中，所有成员的MP都为9999"
+cheat7_code = "8009CEB0 270F+8009CEB2 270F+8009D2F0 270F+8009D2F2 270F+8009D730 270F+8009D732 270F"
+cheat7_enable = false
+
+cheat8_desc = " Cloud \\攻击"
+cheat8_code = "3009BD89 0063"
+cheat8_enable = false
+
+cheat9_desc = " Cloud \\ Speed"
+cheat9_code = "3009BD8A 00FF"
+cheat9_enable = false
+
+cheat10_desc = " Cloud \\ Health"
+cheat10_code = "3009BD8B 00FF"
+cheat10_enable = false
+
+cheat11_desc = " Cloud \\ Magic"
+cheat11_code = "3009BD8C 00FF"
+cheat11_enable = false
+
+cheat12_desc = " Cloud \\浓度"
+cheat12_code = "3009BD8D 00FF"
+cheat12_enable = false
+
+cheat13_desc = " Cloud \\ Lucky"
+cheat13_code = "8009BD8E FFFF"
+cheat13_enable = false
+
+cheat14_desc = " Cloud \\ Infinite Hp"
+cheat14_code = "8009BDB4 270F"
+cheat14_enable = false
+
+cheat15_desc = " Cloud \\ Max Hp"
+cheat15_code = "8009BDB6 270F"
+cheat15_enable = false
+
+cheat16_desc = " Cloud \\ Infinite Mp"
+cheat16_code = "8009BDB8 03E7"
+cheat16_enable = false
+
+cheat17_desc = " Cloud \\ Max Mp"
+cheat17_code = "8009BDBA 03E7"
+cheat17_enable = false
+
+cheat18_desc = " Barett \\ Attack"
+cheat18_code = "3009BE0D 0063"
+cheat18_enable = false
+
+cheat19_desc = " Barett \\ Speed"
+cheat19_code = "3009BE0E 00FF"
+cheat19_enable = false
+
+cheat20_desc = " Barett \\ Health"
+cheat20_code = "3009BE0F 00FF"
+cheat20_enable = false
+
+cheat21_desc = " 巴雷特\\魔法"
+cheat21_code = "3009BE10 00FF"
+cheat21_enable = false
+
+cheat22_desc = " Barett \\浓度"
+cheat22_code = "3009BE11 00FF"
+cheat22_enable = false
+
+cheat23_desc = " Barett \\ Lucky"
+cheat23_code = "8009BE12 FFFF"
+cheat23_enable = false
+
+cheat24_desc = " Barett \\ Infinite Hp"
+cheat24_code = "8009BE38 270F"
+cheat24_enable = false
+
+cheat25_desc = " Barett \\ Max Hp"
+cheat25_code = "8009BE3A 270F"
+cheat25_enable = false
+
+cheat26_desc = " Barett \\ Infinite Mp"
+cheat26_code = "8009BE3C 03E7"
+cheat26_enable = false
+
+cheat27_desc = " Tifa \\攻击"
+cheat27_code = "3009BE91 0063"
+cheat27_enable = false
+
+cheat28_desc = " Tifa \\ Speed"
+cheat28_code = "3009BE92 00FF"
+cheat28_enable = false
+
+cheat29_desc = " Tifa \\ Health"
+cheat29_code = "3009BE93 00FF"
+cheat29_enable = false

@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "<B> 启动码 (必须打开) "
+cheat0_code = "D009B2B0 FFF3+8009B2E0 0046+D009B2B0 FFF3+8009B2E2 1000"
+cheat0_enable = false
+
+cheat1_desc = " 无限钱  "
+cheat1_code = "80076BA4 0FFF+80066BA6 5F5E"
+cheat1_enable = false
+
+cheat2_desc = " 随时存档"
+cheat2_code = "8006F372 0100"
+cheat2_enable = false
+
+cheat3_desc = " 游戏时间最大"
+cheat3_code = "80076D68 FFFF"
+cheat3_enable = false
+
+cheat4_desc = " Limit 时间加快"
+cheat4_code = "80076D6C FFFF"
+cheat4_enable = false
+
+cheat5_desc = " 超级Chocobo"
+cheat5_code = "8009D4B4 0000+8009D4B6 0401"
+cheat5_enable = false
+
+cheat6_desc = " HP 值最大"
+cheat6_code = "80076528 270F"
+cheat6_enable = false
+
+cheat7_desc = " 无限 HP"
+cheat7_code = "800775B2 270F+80077782 270F+80077952 270F"
+cheat7_enable = false
+
+cheat8_desc = " Exp 经验最大"
+cheat8_code = "8007652C FFFF"
+cheat8_enable = false
+
+cheat9_desc = " EXP 满足下一等级"
+cheat9_code = "8007652E 0000"
+cheat9_enable = false
+
+cheat10_desc = " Strength 最大"
+cheat10_code = "80076532 FFFF"
+cheat10_enable = false
+
+cheat11_desc = " Knowledge 最大"
+cheat11_code = "80076534 FFFF"
+cheat11_enable = false
+
+cheat12_desc = " Lucky 最大"
+cheat12_code = "80076536 FFFF"
+cheat12_enable = false
+
+cheat13_desc = " 一场战斗之后，GF Max"
+cheat13_code = "D002276C 000C+8002276E AE30"
+cheat13_enable = false
+
+cheat14_desc = " 一场战斗后，记住所有敌人的技能"
+cheat14_code = "800229A0 0001"
+cheat14_enable = false
+
+cheat15_desc = " 使用魔法时，魔法石不减"
+cheat15_code = "D01E6986 0066+801E6986 0060"
+cheat15_enable = false
+
+cheat16_desc = " 攻击中快速储能"
+cheat16_code = "800775C4 2EE0+80077794 2EE0+80077964 2EE0"
+cheat16_enable = false
+
+cheat17_desc = " 不遇敌"
+cheat17_code = "80077B18 000C"
+cheat17_enable = false
+
+cheat18_desc = " 全物品 (仅Caetla)"
+cheat18_code = "5000C602 6401+80076BDC 0001"
+cheat18_enable = false
