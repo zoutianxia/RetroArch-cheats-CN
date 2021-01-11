@@ -5,7 +5,7 @@ cheat0_code = "D009B2B0 FFF3+8009B2E0 0046+D009B2B0 FFF3+8009B2E2 1000"
 cheat0_enable = false
 
 cheat1_desc = " 无限钱  "
-cheat1_code = "80076BA4 0FFF+80066BA6 5F5E"
+cheat1_code = "80076BA4 FFFF"
 cheat1_enable = false
 
 cheat2_desc = " 随时存档"
